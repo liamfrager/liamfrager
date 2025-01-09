@@ -6,7 +6,7 @@ My name is Liam Frager! 😄
 ## 📝 Here's a bit about me
 I am a detail-oriented software developer with a strong track record in full-stack development. 💪 Passionate about implementing scalable, elegant solutions using a diverse range of languages and frameworks, I am a collaborative team player with excellent communication and project management skills, committed to continuous learning. 📚
 
-In addition to coding, I have a passion for music. 🎶 I play several instruments (mostly piano 🎹), and am often composing music in my free time. 🎼 Some of my favorite composers include **Sergei Prokofiev** 🎻, **Stephen Sondheim** 🎭, and **John Williams** 🎬.
+In addition to coding, I love music! 🎶 I play several instruments (mostly piano 🎹), and am often composing music in my free time. 🎼 Some of my favorite composers include **Sergei Prokofiev** 🎻, **Stephen Sondheim** 🎭, and **John Williams** 🎬.
 
 
 
@@ -38,7 +38,7 @@ In addition to coding, I have a passion for music. 🎶 I play several instrumen
 ## 💻 And worked a few places
 ||Company|Years|Responsibilities|
 |---|---|---|---|
-|<img src="https://revaturepro.gallerycdn.vsassets.io/extensions/revaturepro/revature-python-labs/0.0.1/1710236349682/Microsoft.VisualStudio.Services.Icons.Default" alt="Revature Logo" width="70"/>|**[Revature](https://www.revature.com)**|2024-Present|<ul><li>Completed an 11-week intensive pre-training in 3 weeks, followed by a 6-week week specialized program</li><li>Gained experience in data structures, algorithms, and in-demand technologies like Java, Spring, Typescript, React, AWS, Docker, and Jenkins.</li><li>Engaged in hands-on projects to deepen understanding of best practices in full-stack development, including frontend, backend, testing, and DevOps.</li></ul>|
+|<img src="https://revaturepro.gallerycdn.vsassets.io/extensions/revaturepro/revature-python-labs/0.0.1/1710236349682/Microsoft.VisualStudio.Services.Icons.Default" alt="Revature Logo" width="70"/>|**[Revature](https://www.revature.com)**|2024-Present|<ul><li>Completed an 11-week intensive pre-training in 3 weeks, followed by a 6-week specialized program</li><li>Gained experience in data structures, algorithms, and in-demand technologies like Java, Spring, Typescript, React, AWS, Docker, and Jenkins.</li><li>Engaged in hands-on projects to deepen understanding of best practices in full-stack development, including frontend, backend, testing, and DevOps.</li></ul>|
 |<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3281570/header.jpg?t=1732253988" alt="Disc Out Logo" width="70"/>|**[Actually A Feature, LLC](https://store.steampowered.com/app/3281570/Disc_Out/)**|2024-Present|<ul><li>Developed a dynamic audio system for indie game Disc Out, managing real-time sound effects and original music composition for seamless integration with gameplay.</li><li>Refactored codebases to enhance efficiency, scalability, and maintainability.</li><li>Contributed to feature and gameplay development.</li></ul>|
 |<img src="https://beacon-marketing.com/wp-content/uploads/2016/09/logo.png" alt="Beacon Marketing Logo" width="70"/>|**[Beacon Marketing](https://beacon-marketing.com)**|2016-2024|<ul><li>Developed and maintained custom websites for clients using HTML, CSS, JavaScript and WordPress.</li><li>Created a bespoke e-commerce platform with real-time product availability by integrating the Printful API.</li></ul>|
 
